@@ -1,0 +1,29 @@
+th, td      { vertical-align: top; text-align: right; font-size:large; }     /* Don't center table cells  */
+h1 {font-size:xx-large;
+ font-family: 'Hammersmith One', sans-serif;
+ text-align: center;
+ color: gray;  
+ }
+ 
+h4 {
+	font-family: 'Fenix', serif;
+	font-size: x-large;
+
+}
+body
+{
+ background-image: url("http://cl.ly/image/2U3T00303e22/Fondo2.png");  
+ font-size:large;
+ font-family: serif;
+}
+
+footer {
+	font-family: 'Hammersmith One', sans-serif;
+	font-size: x-small;
+	color: gray;
+ 	text-align: center;
+   position:fixed;
+   bottom:70px;
+   height:20px;
+   width:100%;
+}
