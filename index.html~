@@ -20,7 +20,7 @@
 			<h4>Introduzca el valor que desea que se convierta siguiendo la sintaxis indicada</h4>
        	
        	
-       	<input id="entrada" placeholder="Introduzca una temperatura (-8º C | 15 F)" size="30">
+       	<input id="entrada" onchange="calculate();" placeholder="Introduzca una temperatura (-8º C | 15 F)" size="30">
     	
       	<button class="bt-submit" type="submit" onClick="conversor();">Convertir</button>
         
