@@ -4611,4 +4611,3 @@ require.alias("chai/index.js", "chai/index.js");if (typeof exports == "object") 
 } else {
   this["chai"] = require("chai");
 }})();
-Status API Training Shop Blog About © 2014 GitHub, Inc. Terms Privacy Security Contact 
